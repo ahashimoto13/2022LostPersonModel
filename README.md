@@ -1,4 +1,4 @@
-# Guide to running scripts for the Scientific Reports Lost Person Model 
+# Guide to running scripts for the 2022 Scientific Reports Lost Person Model 
  [2022ScientificReportsPaper.pdf](https://github.com/ahashimoto13/SciRepLPModel/files/8558714/2022ScientificReportsPaper.pdf)
 
 
