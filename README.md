@@ -1,6 +1,5 @@
-# Guide to running scripts for the 2022 Scientific Reports Lost Person Model 
- [2022ScientificReportsPaper.pdf](https://github.com/ahashimoto13/SciRepLPModel/files/8558714/2022ScientificReportsPaper.pdf)
-
+# Guide to running scripts for the 2022 Lost Person Model 
+Hashimoto, A., Heintzman, L., Koester, R. et al. An agent-based model reveals lost person behavior based on data from wilderness search and rescue. Sci Rep 12, 5873 (2022). https://doi.org/10.1038/s41598-022-09502-4
 
 
 ## Running the simulations
